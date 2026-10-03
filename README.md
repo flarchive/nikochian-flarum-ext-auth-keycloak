@@ -2,13 +2,13 @@
 
 > **Read-only archive of released versions of nikochian/flarum-ext-auth-keycloak.** Not for installation: use [Packagist](https://packagist.org/packages/nikochian/flarum-ext-auth-keycloak) or the [upstream repository](https://github.com/nikochian/flarum-ext-auth-keycloak).
 
-**0** versions archived · Latest: [`1.0.0`](https://github.com/flarchive/nikochian-flarum-ext-auth-keycloak/tree/archive/v1.0.0) · License: `MIT` · Flarum: `^1.3`
+**1** versions archived · Latest: [`1.0.0`](https://github.com/flarchive/nikochian-flarum-ext-auth-keycloak/tree/archive/v1.0.0) · License: `MIT` · Flarum: `^1.3`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `1.0.0` | 2023-11-29 | `^1.3` | [Browse](https://github.com/flarchive/nikochian-flarum-ext-auth-keycloak/tree/archive/v1.0.0) |
 
 Catalog entry: [packages/nikochian-flarum-ext-auth-keycloak.json](https://github.com/flarchive/archive-index/blob/main/packages/nikochian-flarum-ext-auth-keycloak.json)
 
